@@ -12,7 +12,7 @@
 % sig_s = working shell stress (Pa)
 % N = number of fins
 
-%% Outputs Key R W_eq t_b p0_pa delta_D D L L_D X_CG X_CP M_p M_s M_o lam eps L_p
+%% Outputs Key
 
 % R = mass ratio
 % W_eq = exit velocity (m/s)
