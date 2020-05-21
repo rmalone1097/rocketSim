@@ -1,5 +1,5 @@
 % Function that finds parameters of rocket consisting of conical nose (D), tube (L + D), and triangular fins (D)
-%  assuming ideal gas properties, linear burn rate, and no winds
+%  assuming ideal gas properties, linear burn rate, and no drag
 
 %% Inputs Key
 
